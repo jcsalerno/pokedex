@@ -22,3 +22,5 @@ Este é um projeto simples que permite que você busque e exiba informações so
 ## Recursos
 
 - [PokéAPI](https://pokeapi.co/): A API usada para buscar informações sobre Pokémon.
+
+![POKDEX](image.png)
